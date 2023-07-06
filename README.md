@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I'am Kirill Krush, DevOps ingineer, Certified by RobotDreams school and LinkedIn Learning school.
+I'am Kirill, DevOps ingineer, Certified by RobotDreams school and LinkedIn Learning school.
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
