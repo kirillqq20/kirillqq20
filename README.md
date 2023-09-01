@@ -2,7 +2,7 @@
 I'am Kirill, DevOps ingineer, Certified by RobotDreams school and LinkedIn Learning school.
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat-square)
 
 <!--
 **kirillqq20/kirillqq20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
