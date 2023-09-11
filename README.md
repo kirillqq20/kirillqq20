@@ -1,6 +1,7 @@
 ### Hi there 👋,
 I'am Kirill, DevOps ingineer.
 Here you will get acquainted with such tools as: 
+- Kubernetes
 - Terraform
 - CI/CD
 - Ansible
