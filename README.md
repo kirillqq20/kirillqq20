@@ -1,6 +1,12 @@
 ### Hi there 👋,
-I'am Kirill, DevOps ingineer, Certified by RobotDreams school and LinkedIn Learning school.
-
+I'am Kirill, DevOps ingineer.
+Here you will get acquainted with such tools as: 
+- Terraform
+- CI/CD
+- Ansible
+- Bash
+- Python
+- Docker
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat-square)
 
